@@ -1,0 +1,138 @@
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\csc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\vbc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\nunit.core.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\nunit.core.interfaces.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\nunit.framework.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\nunit.util.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\EntityFramework.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\nunit.framework.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.Optimization.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\EntityFramework.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.csprojResolveAssemblyReference.cache
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\csc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\vbc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.dll.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\nunit.core.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\nunit.core.interfaces.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\nunit.framework.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\nunit.util.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\EntityFramework.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\Ninject.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\nunit.framework.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.Optimization.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\EntityFramework.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\Ninject.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.csprojResolveAssemblyReference.cache
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - Ninject\HotelBooking.UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\csc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\vbc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.dll.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\NSubstitute.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\nunit.core.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\nunit.core.interfaces.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\nunit.framework.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\nunit.util.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\EntityFramework.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\Ninject.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\NSubstitute.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\nunit.framework.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\System.Web.Optimization.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\EntityFramework.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\bin\Debug\Ninject.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.csprojResolveAssemblyReference.cache
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.pdb
