@@ -232,17 +232,17 @@ C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBook
 C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache
 C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking\obj\Debug\HotelBooking.dll
 C:\Test2016\Solutions\HotelBooking - Mini project part 3 - NSubstitute\HotelBooking\obj\Debug\HotelBooking.pdb
-C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\csc.exe
-C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\VBCSCompiler.exe
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\csc.exe
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\Microsoft.CSharp.Core.targets
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\System.Reflection.Metadata.dll
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\vbc.exe
-C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\VBCSCompiler.exe
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\HotelBooking.dll.config
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\HotelBooking.dll
@@ -280,6 +280,6 @@ C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBoo
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\System.Web.WebPages.Razor.xml
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\Antlr3.Runtime.pdb
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\bin\Newtonsoft.Json.xml
-C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\obj\Debug\HotelBooking.dll
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache

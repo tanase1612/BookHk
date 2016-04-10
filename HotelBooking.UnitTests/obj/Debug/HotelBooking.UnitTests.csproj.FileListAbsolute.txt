@@ -186,3 +186,7 @@ C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBoo
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.dll
 C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.pdb
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking.UnitTests\bin\Debug\WebDriver.dll
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking.UnitTests\bin\Debug\WebDriver.Support.dll
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking.UnitTests\bin\Debug\WebDriver.xml
+C:\Users\tanas\Desktop\PBSW\Compulsory Assignment\Henrik's class\BookHk\HotelBooking.UnitTests\bin\Debug\WebDriver.Support.xml

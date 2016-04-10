@@ -1,11 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelBooking", "HotelBooking\HotelBooking.csproj", "{9EE41780-4D6F-41C6-97B9-8F034822E475}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelBooking.UnitTests", "HotelBooking.UnitTests\HotelBooking.UnitTests.csproj", "{9BABEC2F-0859-405E-B7FE-C98BC2204991}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A49673D-3C84-4A04-BC56-06E55F368CE6}"
+	ProjectSection(SolutionItems) = preProject
+		HotelBooking.UnitTests\CreateBookingTest.cs = HotelBooking.UnitTests\CreateBookingTest.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
