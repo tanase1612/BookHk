@@ -10,9 +10,11 @@ namespace HotelBooking.Models
     {
         public int Id { get; set; }
 
-        [DataType(DataType.Date)]
+       [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
+        [DataType(DataType.Date)]  
         public DateTime StartDate { get; set; }
 
+        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
         [DataType(DataType.Date)]
         public DateTime EndDate { get; set; }
 
