@@ -39,6 +39,14 @@ namespace HotelBooking.UnitTests
             int roomId = manager.FindAvailableRoom(date, date);
             Assert.AreNotEqual(-1, roomId);
         }
+        [Test]
+        public void GetFullyOccupiedDates_RoomsOccupiedOnDate_RoomIdNotMinusOne()
+        {
+            BookingManager manager = CreateBookingManager();
+            DateTime date = SystemTime.Today.AddDays(21);
+            List<DateTime> dates = manager.GetFullyOccupiedDates(date, date);
+            Assert.AreNotEqual(-1, dates);
+        }
 
         private BookingManager CreateBookingManager()
         {
@@ -68,6 +76,34 @@ namespace HotelBooking.UnitTests
             roomRepository.GetAll().Returns(rooms);
 
             return new BookingManager(bookingRepository, roomRepository);
+        }
+        [Test]
+        public void FindAvailableRoom_StartDateNotBeforeEndDate_ThrowsException()
+        {
+            BookingManager manager = CreateBookingManager();
+            DateTime start = SystemTime.Today.AddDays(20).AddMonths(4).AddYears(14);
+            DateTime end = SystemTime.Today.AddDays(19).AddMonths(4).AddYears(14);
+            Assert.Catch<Exception>(() => manager.FindAvailableRoom(start, end));
+        }
+
+        [Test]
+        public void CreateBooking_CreateBooking_Pass()
+        {
+            IRepository<Booking> bookingRepository = Substitute.For<IRepository<Booking>>();
+            IRepository<Room> roomRepository = Substitute.For<IRepository<Room>>();
+            BookingManager booking = new BookingManager(bookingRepository, roomRepository);
+            DateTime start = SystemTime.Today.AddDays(20).AddMonths(4).AddYears(14);
+            DateTime end = SystemTime.Today.AddDays(22).AddMonths(4).AddYears(14);
+            Booking toBook = new Booking { Id = 3, StartDate = start, EndDate = end, CustomerId = 1};
+            List<Room> rooms = new List<Room>
+            {
+                new Room { Id = 1 },
+                new Room { Id = 2 }
+            };
+            roomRepository.GetAll().Returns(rooms);
+            booking.CreateBooking(toBook);
+            
+            bookingRepository.Received().Add(toBook);
         }
     }
 }

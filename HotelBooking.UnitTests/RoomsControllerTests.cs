@@ -37,6 +37,33 @@ namespace HotelBooking.UnitTests
         }
 
         [Test]
+        public void AddConfirmed_NewRoom_AddIsCalled()
+        {
+            // This test demonstrates interaction testing using NSubstitute to create
+            // a mock object.
+
+            // Arrange
+
+            // Create a mock object
+            IRepository<Room> fakeRoomRepos = Substitute.For<IRepository<Room>>();
+            // Create RoomsController instance and inject the fake RoomRepository
+            RoomsController controller = new RoomsController(fakeRoomRepos);
+            Room room = new Room {Id = 1 };
+
+            // Act
+
+            // When we want to test a controller action the test project must have
+            // a reference to the System.Web.Mvc assembly. I did this by adding the
+            // NuGet package "Microsoft.AspNet.Mvc" to the test project.
+            
+            controller.Create(room);
+            // Assert
+
+            // Assert against the mock object
+            fakeRoomRepos.Received().Add(room);
+        }
+
+        [Test]
         //[Ignore]
         public void DeleteConfirmed_WhenIdIsLessThanOne_RemoveIsNotCalled()
         {
